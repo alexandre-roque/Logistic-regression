@@ -1,1 +1,1 @@
-# Regress-oLogistica
+Logistic regression
